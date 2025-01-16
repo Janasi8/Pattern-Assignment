@@ -1,0 +1,2 @@
+# Pattern-Assignment
+TECHNICAL TRAININIG ASSIGNMENT
